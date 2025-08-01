@@ -1,2 +1,2 @@
 # Eldernex__
-The Official App
+Eldernex is a real-time elderly care and fall detection system that integrates an ESP32-S3 health band with a cross-platform Flutter application. It features continuous health monitoring (heart rate, SpO₂), a two-stage fall detection mechanism using accelerometer data and a TensorFlow Lite model, and instant caregiver alerts via Firebase. The app supports Elderly and Caretaker profiles, secure linking through invite/QR codes, and includes medication reminders with synchronized notifications.
